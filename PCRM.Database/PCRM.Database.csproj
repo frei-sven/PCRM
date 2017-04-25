@@ -73,6 +73,7 @@
   <ItemGroup>
     <Compile Include="Context\PcrmContext.cs" />
     <Compile Include="Entities\Employee.cs" />
+    <Compile Include="Entities\Project.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
