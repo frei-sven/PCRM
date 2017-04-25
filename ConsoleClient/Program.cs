@@ -14,9 +14,17 @@ namespace ConsoleClient
             using(var context = new PcrmContext())
             {
                 context.Database.Log = Console.WriteLine;
+                Console.WriteLine(context.Database.Connection.ConnectionString);
+                Console.ReadKey();
+                foreach (var e in context.Employees)
+                {
+                    Console.WriteLine(e.ToString());
+                }
                 var employee = context.Employees.Find(1);
                 Console.WriteLine(">>" + employee.firstname);
             }
+
+            Console.ReadKey();
         }
     }
 }
