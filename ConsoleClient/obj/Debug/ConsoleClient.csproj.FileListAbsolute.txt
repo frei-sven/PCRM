@@ -1,0 +1,16 @@
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\EntityFramework.dll
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\PCRM.Database.dll
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\MySql.Data.dll
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\PCRM.Database.pdb
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\PCRM.Database.dll.config
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\EntityFramework.xml
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\CSharp\VS Community\PCRM\ConsoleClient\bin\Debug\MySql.Data.xml
+C:\CSharp\VS Community\PCRM\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\CSharp\VS Community\PCRM\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\CSharp\VS Community\PCRM\ConsoleClient\obj\Debug\ConsoleClient.pdb
