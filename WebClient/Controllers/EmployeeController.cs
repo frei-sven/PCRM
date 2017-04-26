@@ -1,5 +1,4 @@
-﻿using PCRM.Database.Entities;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,6 +7,7 @@ using System.Web.Mvc;
 namespace WebClient.Controllers
 {
     using Helper;
+    using Models;
 
     public class EmployeeController : Controller
     {
@@ -21,11 +21,12 @@ namespace WebClient.Controllers
         }
 
         // GET: Employee/Details/5
+        [HttpGet]
         public ActionResult Details(int id)
         {
             Employee employee = EmployeeRepository.GetById(id);
 
-            return View();
+            return View(employee);
         }
 
         // GET: Employee/Create
