@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCRM.Database", "PCRM.Datab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{1694D69B-4050-4E46-AF76-074480E2B2B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{9C384D64-8258-4E49-BDEC-B5D0CBEEADBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1694D69B-4050-4E46-AF76-074480E2B2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1694D69B-4050-4E46-AF76-074480E2B2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1694D69B-4050-4E46-AF76-074480E2B2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C384D64-8258-4E49-BDEC-B5D0CBEEADBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C384D64-8258-4E49-BDEC-B5D0CBEEADBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C384D64-8258-4E49-BDEC-B5D0CBEEADBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C384D64-8258-4E49-BDEC-B5D0CBEEADBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
