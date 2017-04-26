@@ -77,3 +77,6 @@ C:\Users\C136123\Source\Repos\pcrm\WebClient\bin\EntityFramework.xml
 C:\Users\C136123\Source\Repos\pcrm\WebClient\bin\EntityFramework.SqlServer.xml
 C:\Users\C136123\Source\Repos\pcrm\WebClient\bin\MySql.Data.xml
 C:\Users\C136123\Source\Repos\pcrm\WebClient\bin\Google.Protobuf.xml
+C:\CSharp\Git\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\CSharp\Git\WebClient\obj\Debug\WebClient.dll
+C:\CSharp\Git\WebClient\obj\Debug\WebClient.pdb

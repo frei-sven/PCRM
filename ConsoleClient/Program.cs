@@ -16,9 +16,9 @@ namespace ConsoleClient
             ReadDatabase();
             ReadKey();
 
-            Console.WriteLine("\nInsert Employee");
-            InsertEmployee();
-            ReadKey();
+            //Console.WriteLine("\nInsert Employee");
+            //InsertEmployee();
+            //ReadKey();
 
             Console.ReadKey();
         }

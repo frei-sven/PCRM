@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCRM.Database", "PCRM.Database\PCRM.Database.csproj", "{33C05893-0481-42FA-BBD6-5DCB517C546A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "PCRM.Database\Database.csproj", "{33C05893-0481-42FA-BBD6-5DCB517C546A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{1694D69B-4050-4E46-AF76-074480E2B2B3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClient", "WebClient\WebClient.csproj", "{9C384D64-8258-4E49-BDEC-B5D0CBEEADBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restful", "Restful\Restful.csproj", "{E6979D1E-52D1-4CD1-BCCF-75AB0D0E55F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{9C384D64-8258-4E49-BDEC-B5D0CBEEADBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C384D64-8258-4E49-BDEC-B5D0CBEEADBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C384D64-8258-4E49-BDEC-B5D0CBEEADBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6979D1E-52D1-4CD1-BCCF-75AB0D0E55F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6979D1E-52D1-4CD1-BCCF-75AB0D0E55F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6979D1E-52D1-4CD1-BCCF-75AB0D0E55F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6979D1E-52D1-4CD1-BCCF-75AB0D0E55F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
