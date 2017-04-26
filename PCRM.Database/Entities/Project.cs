@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PCRM.Database.Entities
 {
-    [Table("Project")]
+    [Table("project")]
     public class Project
     {
         public Project()
