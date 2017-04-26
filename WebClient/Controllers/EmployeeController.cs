@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Restful.Entities;
+using Restful;
 
 namespace WebClient.Controllers
 {
     using Helper;
-    using Models;
 
     public class EmployeeController : Controller
     {
@@ -15,7 +16,7 @@ namespace WebClient.Controllers
         [HttpGet]
         public ActionResult Index()
         {
-            List<Employee> employees = EmployeeRepository.GetAll();
+            List<RestEmployee> employees = EmployeeRepository.GetAll();
 
             return View(employees);
         }
@@ -24,7 +25,7 @@ namespace WebClient.Controllers
         [HttpGet]
         public ActionResult Details(int id)
         {
-            Employee employee = EmployeeRepository.GetById(id);
+            RestEmployee employee = EmployeeRepository.GetById(id);
 
             return View(employee);
         }

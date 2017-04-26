@@ -1,5 +1,5 @@
-﻿@using WebClient.Models
-@model List<Employee>
+﻿@using Restful.Entities
+@model List<RestEmployee>
 
 @{
     ViewBag.Title = "Employees";
@@ -16,7 +16,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (Employee e in Model)
+        @foreach (RestEmployee e in Model)
         {
             <tr>
                 <td>@e.Id</td>

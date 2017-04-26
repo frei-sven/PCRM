@@ -10,6 +10,10 @@ namespace Restful.Entities
     [DataContract]
     public class RestEmployee
     {
+        public RestEmployee()
+        {
+        }
+
         public RestEmployee(Employee e)
         {
             Id = e.Id;

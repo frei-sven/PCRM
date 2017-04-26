@@ -154,7 +154,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Helper\EmployeeRepository.cs" />
-    <Compile Include="Models\Employee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -199,6 +198,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Models\" />
     <Folder Include="Views\Project\" />
   </ItemGroup>
   <ItemGroup>
@@ -217,9 +217,9 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PCRM.Database\Database.csproj">
-      <Project>{33c05893-0481-42fa-bbd6-5dcb517c546a}</Project>
-      <Name>Database</Name>
+    <ProjectReference Include="..\Restful\Restful.csproj">
+      <Project>{e6979d1e-52d1-4cd1-bccf-75ab0d0e55f1}</Project>
+      <Name>Restful</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
