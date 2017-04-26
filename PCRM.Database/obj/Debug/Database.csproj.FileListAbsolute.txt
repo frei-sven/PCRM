@@ -1,0 +1,17 @@
+C:\CSharp\Git\PCRM.Database\bin\Debug\PCRM.Database.dll.config
+C:\CSharp\Git\PCRM.Database\bin\Debug\PCRM.Database.dll
+C:\CSharp\Git\PCRM.Database\bin\Debug\PCRM.Database.pdb
+C:\CSharp\Git\PCRM.Database\bin\Debug\EntityFramework.dll
+C:\CSharp\Git\PCRM.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\CSharp\Git\PCRM.Database\bin\Debug\Google.Protobuf.dll
+C:\CSharp\Git\PCRM.Database\bin\Debug\MySql.Data.dll
+C:\CSharp\Git\PCRM.Database\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\CSharp\Git\PCRM.Database\bin\Debug\System.Data.dll
+C:\CSharp\Git\PCRM.Database\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CSharp\Git\PCRM.Database\bin\Debug\EntityFramework.xml
+C:\CSharp\Git\PCRM.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\CSharp\Git\PCRM.Database\bin\Debug\Google.Protobuf.xml
+C:\CSharp\Git\PCRM.Database\bin\Debug\MySql.Data.xml
+C:\CSharp\Git\PCRM.Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\CSharp\Git\PCRM.Database\obj\Debug\PCRM.Database.dll
+C:\CSharp\Git\PCRM.Database\obj\Debug\PCRM.Database.pdb

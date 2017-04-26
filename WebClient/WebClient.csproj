@@ -216,9 +216,9 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PCRM.Database\PCRM.Database.csproj">
+    <ProjectReference Include="..\PCRM.Database\Database.csproj">
       <Project>{33c05893-0481-42fa-bbd6-5dcb517c546a}</Project>
-      <Name>PCRM.Database</Name>
+      <Name>Database</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
